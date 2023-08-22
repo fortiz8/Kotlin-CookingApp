@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1025294076102",
+    "firebase_url": "https://fir-auth-235ea-default-rtdb.firebaseio.com",
+    "project_id": "fir-auth-235ea",
+    "storage_bucket": "fir-auth-235ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025294076102:android:82a04678eff76545536fc7",
+        "android_client_info": {
+          "package_name": "com.cookingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025294076102-kj0snhhstf31tisrd3vfqoajtu4kq542.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUVMJwqldQOMVSy-RBKDcMr3ApcXLgW5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025294076102-ajrrfcm36sj4698lqpin9csas62l85is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025294076102:android:2fb1410c2117a0d1536fc7",
+        "android_client_info": {
+          "package_name": "com.example.kotlin_cookingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025294076102-kj0snhhstf31tisrd3vfqoajtu4kq542.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUVMJwqldQOMVSy-RBKDcMr3ApcXLgW5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025294076102-ajrrfcm36sj4698lqpin9csas62l85is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
